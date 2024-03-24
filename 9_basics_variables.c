@@ -3,7 +3,9 @@
 int main(){
 
 int x; // varible declaration
-x = 5; // variable initalization
+x = 10; // variable initalization
+
+int y = x / 2;
 printf("Hello World\n");
     return 0;
 }
